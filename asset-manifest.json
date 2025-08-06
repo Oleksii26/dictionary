@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "https://oleksii26.github.io/dictionary/static/css/main.f372058a.css",
-    "main.js": "https://oleksii26.github.io/dictionary/static/js/main.57334725.js",
-    "index.html": "https://oleksii26.github.io/dictionary/index.html",
-    "main.f372058a.css.map": "https://oleksii26.github.io/dictionary/static/css/main.f372058a.css.map",
-    "main.57334725.js.map": "https://oleksii26.github.io/dictionary/static/js/main.57334725.js.map"
+    "main.css": "/dictionary/static/css/main.f372058a.css",
+    "main.js": "/dictionary/static/js/main.c6d83a8b.js",
+    "index.html": "/dictionary/index.html",
+    "main.f372058a.css.map": "/dictionary/static/css/main.f372058a.css.map",
+    "main.c6d83a8b.js.map": "/dictionary/static/js/main.c6d83a8b.js.map"
   },
   "entrypoints": [
-    "https://oleksii26.github.io/dictionary/static/css/main.f372058a.css",
-    "https://oleksii26.github.io/dictionary/static/js/main.57334725.js"
+    "static/css/main.f372058a.css",
+    "static/js/main.c6d83a8b.js"
   ]
 }
